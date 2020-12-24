@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+.container{
+    margin-top: 150px;
+}
+.header{
+    top:0;
+    width:100%;
+    margin: 0px;
+}
+.object-a{
+    border-radius: 20px;
+    border:1px dashed black;
+    height: 80px;
+    background-color: white;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    margin: 100px;
+}
